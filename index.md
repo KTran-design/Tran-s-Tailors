@@ -1,35 +1,16 @@
-# Welcome to Huy Tran's Tailors
+# Welcome to Tran's Tailors
 
-We....
+We...
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## All form of alterations and custom clothings
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- **BROWSE & CUSTOMIZE**: Shop our selection of suits, tuxedos, coats & shirts. All fully customizable.
+- **CREATE YOUR SIZE**: Our Digital Tailor only needs your height, weight, age, waist & shoe size.
+- **RECEIVE IN 3 WEEKS**: Your perfect fit is delivered fast. If anything is off, we'll remake it free.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Contact 
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KTran-design/Tran-s-Tailors/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Email:
+Phone #:
